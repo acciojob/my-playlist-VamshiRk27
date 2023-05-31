@@ -23,6 +23,11 @@ h2{
 	margin:10px;
 	margin-bottom:0px;
 }
+.player_one ul{
+	display:flex;
+	flex-direction:column;
+	list-style-type: none;
+}
 .player_two{
 	display:flex;
 	flex-direction:column;
